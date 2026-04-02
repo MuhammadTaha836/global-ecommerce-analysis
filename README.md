@@ -9,6 +9,7 @@ seasonal trends, and market opportunities.
  Tools Used
  
  SQL (SQLiteOnline)
+ 
  Microsoft Excel
 
  Dataset
@@ -30,15 +31,21 @@ seasonal trends, and market opportunities.
  Key Findings
  
  USA leads revenue with €206,117 but market is evenly distributed
+ 
  Home Decor beats Electronics as highest revenue category at €232,275
+ 
  UAE + Sports has highest average order value globally at €2,088
+ 
  July is strongest month with €180,208 in revenue
+ 
  Average units per order remarkably similar across all countries (4.6-5.6)
+ 
  UAE customers spend most per order at €1,461 vs Canada at €971
 
  Files
  
  global_ecommerce_queries.sql — All SQL queries used
+ 
  global_ecommerce_analysis.xlsx — Excel charts and analysis
 
  Insights
