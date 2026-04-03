@@ -42,6 +42,13 @@ seasonal trends, and market opportunities.
  
  UAE customers spend most per order at €1,461 vs Canada at €971
 
+  Charts
+![Country Revenue](country_revenue.png)
+![Category Analysis](category_analysis.png)
+![Monthly Trends](monthly_trends.png)
+![Top Combinations](top_combinations.png)
+![Quantity vs Revenue](quantity_revenue.png)
+
  Files
  
  global_ecommerce_queries.sql — All SQL queries used
